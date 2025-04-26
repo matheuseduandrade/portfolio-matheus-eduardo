@@ -875,7 +875,7 @@ body.dark-mode .footer--area {
     z-index: 1000;
 }
 .ios-toggle-track {
-    width: 50px;
+    width: 42px;
     height: 40px;
     background: #e0e0e0;
     border-radius: 20px;
@@ -891,9 +891,9 @@ body.dark-mode .footer--area {
     width: 30px;
     height: 30px;
     background: #ffffff;
-    border-radius: 50%;
+    border-radius: 100%;
     position: absolute;
-    left: 12px;
+    left: 8px;
     top: 5px;
     transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
